@@ -1,9 +1,10 @@
-# 📄 Resenha Crítica: Arquitetura de Microsserviços
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/307edda4-0672-45dd-b9de-b865a8a7206f" /># 📄 Resenha Crítica: Arquitetura de Microsserviços
 
 > Atividade acadêmica desenvolvida para a disciplina de **Projeto de Software** na **PUC Minas**.
 
 👨‍🏫 **Professor Orientador:** João Paulo Aramuni ([@joaopauloaramuni](https://github.com/joaopauloaramuni))  
-📅 **Data de Realização:** 03/03/2025  
+📅 **Data de Realização:** 03/03/2025 
+📢 Aproveita que você leu até aqui e leia o artigo: https://martinfowler.com/articles/microservices.html
 
 ---
 
