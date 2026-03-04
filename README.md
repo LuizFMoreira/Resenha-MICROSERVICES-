@@ -3,10 +3,8 @@
 > Atividade acadêmica desenvolvida para a disciplina de **Projeto de Software** na **PUC Minas**.
 
 👨‍🏫 **Professor Orientador:** João Paulo Aramuni ([@joaopauloaramuni](https://github.com/joaopauloaramuni))  
-📅 **Data de Realização:** 03/03/2025 
-
-🙋 **Autor** Luiz Fernando Batista Moreira
-
+📅 **Data de Realização:** 03/03/2025 <br>
+🙋 **Autor** Luiz Fernando Batista Moreira<br>
 📢 Aproveita que você leu até aqui e leia o artigo: https://martinfowler.com/articles/microservices.html
 
 ---
