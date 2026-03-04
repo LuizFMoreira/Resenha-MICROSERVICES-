@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/307edda4-0672-45dd-b9de-b865a8a7206f" /># 📄 Resenha Crítica: Arquitetura de Microsserviços
+# 📄 Resenha Crítica: Arquitetura de Microsserviços
 
 > Atividade acadêmica desenvolvida para a disciplina de **Projeto de Software** na **PUC Minas**.
 
