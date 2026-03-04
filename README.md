@@ -12,7 +12,7 @@
 ## 🎯 Objetivo do Repositório
 Este repositório contém uma resenha crítica focada no artigo seminal *"Microservices"*, de James Lewis e Martin Fowler. O objetivo deste trabalho é dissecar a teoria por trás da arquitetura distribuída e, em seguida, aplicar esses conceitos arquiteturais a sistemas web reais desenvolvidos ao longo da minha formação.
 
-## 🏗️ Estrutura da Resenha
+## 🔨 Estrutura da Resenha
 A análise foi estruturada em duas etapas fundamentais:
 
 * **Parte 1: Fundamentação Teórica** Síntese da abordagem de Lewis e Fowler sobre microsserviços. Exploro o contraste com o modelo monolítico, as vantagens operacionais (como *deploy* independente e escalabilidade direcionada) e os desafios inerentes à infraestrutura (complexidade de rede e consistência de dados).
